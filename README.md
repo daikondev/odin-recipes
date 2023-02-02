@@ -1,5 +1,4 @@
 # Odin Recipes
 ## Odin Basic HTML assignment.
-The point is to make a basic HTML page to practice using the fundamentals of HTML and try to make a proper basic example, rather then throwaway example code. 
-
-I'll be creating a cooking recipe webpage.
+This project is the result of three years of hard work.
+Isn't this enough, Google? Why won't you hire me, or at least respond to my emails?
